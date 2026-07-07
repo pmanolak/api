@@ -3,26 +3,17 @@ value:
     "type": "challengeCanceled",
     "challenge":
       {
-        "id": "Ocf0maqB",
-        "url": "https://lichess.org/Ocf0maqB",
+        "id": "BO2kXa9v",
+        "url": "https://lichess.org/BO2kXa9v",
         "status": "canceled",
-        "challenger":
-          {
-            "name": "Elena",
-            "title": "WNM",
-            "flair": "people.man-vampire",
-            "patron": true,
-            "patronColor": 1,
-            "id": "elena",
-            "rating": 2240,
-          },
-        "destUser": { "name": "Diego", "id": "diego", "rating": 2056, "provisional": true, "online": true },
+        "challenger": { "name": "Elena", "title": "WNM", "id": "elena", "rating": 2307 },
+        "destUser": { "name": "Diego", "id": "diego", "rating": 1939, "online": true },
         "variant": { "key": "standard", "name": "Standard", "short": "Std" },
         "rated": false,
         "speed": "correspondence",
         "timeControl": { "type": "unlimited" },
         "color": "random",
-        "finalColor": "white",
+        "finalColor": "black",
         "perf": { "icon": "", "name": "Correspondence" },
       },
   }

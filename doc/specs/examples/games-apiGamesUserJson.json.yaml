@@ -1,26 +1,22 @@
 value:
   {
-    "id": "wVI5NKlo",
+    "id": "nfjOkkBQ",
     "rated": false,
     "variant": "standard",
-    "speed": "blitz",
-    "perf": "blitz",
-    "createdAt": 1778780828563,
-    "lastMoveAt": 1778780828563,
-    "status": "outoftime",
-    "source": "simul",
+    "speed": "bullet",
+    "perf": "bullet",
+    "createdAt": 1783377244194,
+    "lastMoveAt": 1783377361082,
+    "status": "resign",
+    "source": "friend",
     "players":
       {
-        "white":
-          { "user": { "name": "thomas7777777", "flair": "nature.rabbit", "id": "thomas7777777" }, "rating": 1036 },
-        "black":
-          {
-            "user": { "name": "Lance5500", "title": "LM", "patron": true, "patronColor": 10, "id": "lance5500" },
-            "rating": 2569,
-          },
+        "white": { "user": { "name": "Lance5500", "title": "LM", "id": "lance5500" }, "rating": 2813 },
+        "black": { "user": { "name": "cherrywall", "id": "cherrywall" }, "rating": 2330 },
       },
-    "winner": "black",
-    "moves": "",
-    "clock": { "initial": 300, "increment": 0, "totalTime": 300 },
-    "division": {},
+    "winner": "white",
+    "opening": { "eco": "A00", "name": "Van't Kruijs Opening", "ply": 1 },
+    "moves": "e3 d5 Ke2 c6 Kd3 e5 Ke2 f5 Kd3 Nf6 Ke2 c5 Kd3 c4+ Ke2 g5 Kf3 e4+ Ke2 Bg7 d3 Nc6 dxc4 dxc4 Qxd8+ Kxd8 Nd2 Be6 h4 h6 hxg5 hxg5 Rxh8+ Bxh8 Nh3 g4 Nf4 Ke7 Nxe6 Kxe6 Nxc4 a6 Nb6 Rd8 c3 Nd5 Nxd5 Rxd5 Ke1 Ne5 Bd2 Nd3+ Bxd3 Rxd3 Ke2 Be5 Rh1 Rd7 Rh6+ Kd5 b3 Kc5 Rh5 Rf7 f3 gxf3+ gxf3 exf3+ Kxf3 a5 a4 b5 axb5 Kxb5 Ke2 a4 bxa4+ Kxa4 e4 Kb3 Rxf5 Re7 Rf3 Kc4 Be1 Bf6 Rxf6 Rxe4+ Kd2 Rh4 Bxh4",
+    "clock": { "initial": 60, "increment": 0, "totalTime": 60 },
+    "division": { "middle": 28, "end": 48 },
   }

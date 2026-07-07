@@ -1,8 +1,8 @@
 value:
   {
-    "id": "GWAM5JK9",
+    "id": "KmevwnGY",
     "createdBy": "lichess",
-    "startsAt": "2026-05-18T23:30:00Z",
+    "startsAt": "2026-07-10T23:30:00Z",
     "name": "Rapid Increment",
     "clock": { "limit": 420, "increment": 2 },
     "variant": "standard",
@@ -11,7 +11,7 @@ value:
     "nbPlayers": 0,
     "nbOngoing": 0,
     "status": "created",
-    "nextRound": { "at": "2026-05-18T23:30:00Z", "in": 334377 },
+    "nextRound": { "at": "2026-07-10T23:30:00Z", "in": 336831 },
     "verdicts":
       {
         "list":

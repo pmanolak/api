@@ -2,25 +2,30 @@ value:
   {
     "round":
       {
-        "id": "0JjIup0K",
+        "id": "4Yuk2i2H",
         "name": "Final Round 2",
         "slug": "final-round-2",
-        "createdAt": 1778812603116,
+        "createdAt": 1783389351095,
         "rated": false,
         "ongoing": true,
-        "startsAt": 1778812603116,
-        "url": "https://lichess.org/broadcast/knight-invitational-2/final-round-2/0JjIup0K",
+        "startsAt": 1783389351095,
+        "url": "https://lichess.org/broadcast/knight-invitational-2/final-round-2/4Yuk2i2H",
       },
     "tour":
       {
-        "id": "gJm0i5k1",
+        "id": "WkIVFXOx",
         "name": "Knight Invitational 2",
         "slug": "knight-invitational-2",
         "info": {},
-        "createdAt": 1778812602837,
-        "url": "https://lichess.org/broadcast/knight-invitational-2/gJm0i5k1",
-        "dates": [1778812603116],
-        "communityOwner": { "name": "Admin", "id": "admin" },
+        "createdAt": 1783389350699,
+        "url": "https://lichess.org/broadcast/knight-invitational-2/WkIVFXOx",
+        "dates": [1783389351095],
+        "communityOwner":
+          {
+            "name": "Admin",
+            "flair": "people.couple-with-heart-woman-man-medium-light-skin-tone-light-skin-tone",
+            "id": "admin",
+          },
       },
     "study": { "writeable": true, "features": { "chat": true, "computer": true, "explorer": true } },
   }

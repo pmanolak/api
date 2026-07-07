@@ -1,16 +1,22 @@
 value:
   {
-    "id": "0y3rsNn7",
-    "url": "https://lichess.org/0y3rsNn7",
+    "id": "uGK4MHaQ",
+    "url": "https://lichess.org/uGK4MHaQ",
     "status": "created",
-    "challenger": { "name": "Bobby", "id": "bobby", "rating": 1804 },
-    "destUser": { "name": "Mary", "flair": "people.open-hands-medium-light-skin-tone", "id": "mary", "rating": 1083 },
+    "challenger":
+      {
+        "name": "Bobby",
+        "flair": "people.person-in-motorized-wheelchair-facing-right-light-skin-tone",
+        "id": "bobby",
+        "rating": 1630,
+      },
+    "destUser": { "name": "Mary", "flair": "people.person-taking-bath-medium-skin-tone", "id": "mary", "rating": 1054 },
     "variant": { "key": "standard", "name": "Standard", "short": "Std" },
     "rated": false,
     "speed": "correspondence",
     "timeControl": { "type": "unlimited" },
     "color": "random",
-    "finalColor": "black",
+    "finalColor": "white",
     "perf": { "icon": "", "name": "Correspondence" },
     "direction": "out",
   }

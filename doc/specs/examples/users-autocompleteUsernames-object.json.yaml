@@ -1,1 +1,11 @@
-value: { "result": [{ "name": "Bobby", "id": "bobby" }] }
+value:
+  {
+    "result":
+      [
+        {
+          "name": "Bobby",
+          "flair": "people.person-in-motorized-wheelchair-facing-right-light-skin-tone",
+          "id": "bobby",
+        },
+      ],
+  }

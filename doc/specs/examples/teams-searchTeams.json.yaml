@@ -11,7 +11,7 @@ value:
           "open": false,
           "leader":
             { "name": "thibault", "flair": "nature.seedling", "patron": true, "patronColor": 10, "id": "thibault" },
-          "nbMembers": 481,
+          "nbMembers": 492,
           "flair": "objects.hammer-and-wrench",
           "leaders":
             [{ "name": "thibault", "flair": "nature.seedling", "patron": true, "patronColor": 10, "id": "thibault" }],
@@ -31,15 +31,13 @@ value:
           "description": "We're the rising coders we make bugs and fix them yeah!!",
           "open": false,
           "leader": { "name": "GovinD_2017", "flair": "people.man-scientist", "id": "govind_2017" },
-          "nbMembers": 13,
+          "nbMembers": 11,
           "flair": "objects.laptop",
           "leaders":
             [
               { "name": "GovinD_2017", "flair": "people.man-scientist", "id": "govind_2017" },
-              { "name": "Drymajorgem", "flair": "activity.jack-o-lantern", "id": "drymajorgem" },
               { "name": "DevIsTheBest", "flair": "smileys.astonished-face-blob", "id": "devisthebest" },
               { "name": "GatoChess89", "flair": "smileys.grinning-cat-with-smiling-eyes", "id": "gatochess89" },
-              { "name": "vilmaratheesh12", "flair": "travel-places.airplane", "id": "vilmaratheesh12" },
             ],
         },
         {
@@ -47,7 +45,7 @@ value:
           "name": "Bot Developing Team",
           "description": "Here we develop bots For our bot developing team.\r\nJoin this team if you have question to ask in the forum. Leaders will respond in at least 7 days.\r\nAnd to be apply as a bot developer, you must be a coder, a developer can be asked by private message with @MrAllVariant. And you might need the [FAQ](https://lichess.org/forum/team-bot-developing-team/faq) , Wanted to be a [developer](https://lichess.org/@/Zkwong1877)? Contact [here](https://lichess.org/inbox/Zkwong1877)!\r\n![text](https://media.giphy.com/media/e4tOcMeLeG2rlCeSuW/giphy.gif)",
           "open": true,
-          "leader": { "name": "Zkwong1877", "flair": "nature.fire", "id": "zkwong1877" },
+          "leader": { "name": "Zkwong1877", "id": "zkwong1877" },
           "nbMembers": 6,
           "leaders": [],
         },
@@ -117,16 +115,6 @@ value:
           "leaders": [{ "name": "statmatt", "id": "statmatt" }],
         },
         {
-          "id": "coders-and-co",
-          "name": "Coders and co.",
-          "description": "## Coders and co., **the** team for coding!\r\n\r\nCurrently active!\r\nThis is a team, fully focused on coding, sharing ideas and projects! If you know anything about coding, you're allowed to join, though:\r\n\r\n**when joining, DO give a little proof you actually know something abt code!**",
-          "open": false,
-          "leader": { "name": "GCVM", "flair": "objects.books", "id": "gcvm" },
-          "nbMembers": 3,
-          "flair": "smileys.alien-monster",
-          "leaders": [{ "name": "GCVM", "flair": "objects.books", "id": "gcvm" }],
-        },
-        {
           "id": "hang-coder",
           "name": "Hang coder",
           "description": "skibidi toilet co cot truyen dinh cao vl",
@@ -170,6 +158,15 @@ value:
           "leader": { "name": "the010100110master", "id": "the010100110master" },
           "nbMembers": 1,
           "leaders": [{ "name": "the010100110master", "id": "the010100110master" }],
+        },
+        {
+          "id": "coders-start-here",
+          "name": "coders... start here!",
+          "description": "Coding is a lot like chess... it dosen't start ti'll the first move",
+          "open": false,
+          "leader": { "name": "hiima1234134", "flair": "objects.desktop-computer", "id": "hiima1234134" },
+          "nbMembers": 1,
+          "leaders": [{ "name": "hiima1234134", "flair": "objects.desktop-computer", "id": "hiima1234134" }],
         },
       ],
     "previousPage": null,

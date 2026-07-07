@@ -2,105 +2,85 @@ value:
   {
     "chess960":
       {
-        "user": { "name": "realNomenNescio", "id": "realnomennescio" },
-        "rating": 2366,
-        "gameId": "doTaX3pm",
+        "user": { "name": "NotThe0ne", "flair": "activity.xmas-lichess-horsey", "id": "notthe0ne" },
+        "rating": 2239,
+        "gameId": "h1y0KxVw",
         "color": "black",
       },
     "best":
       {
-        "user": { "name": "DrawMerchant", "title": "IM", "id": "drawmerchant" },
-        "rating": 2787,
-        "gameId": "2i3nCKuq",
-        "color": "black",
+        "user": { "name": "TheMarsisback2015", "id": "themarsisback2015" },
+        "rating": 3180,
+        "gameId": "3hkEI6VI",
+        "color": "white",
       },
     "antichess":
       {
-        "user": { "name": "Penguinept", "flair": "activity.puzzle-piece", "id": "penguinept" },
-        "rating": 2197,
-        "gameId": "Mm5RSBXg",
-        "color": "white",
+        "user": { "name": "nowayheadro", "id": "nowayheadro" },
+        "rating": 2091,
+        "gameId": "EbGMgtAf",
+        "color": "black",
       },
     "computer":
-      {
-        "user": { "name": "AIDARED", "flair": "food-drink.red-apple", "id": "aidared" },
-        "rating": 2506,
-        "gameId": "Y1D9abkF",
-        "color": "white",
-      },
+      { "user": { "name": "sofiajuanc", "id": "sofiajuanc" }, "rating": 2011, "gameId": "BmnYAJ2r", "color": "black" },
     "bullet":
       {
-        "user": { "name": "DrawMerchant", "title": "IM", "id": "drawmerchant" },
-        "rating": 2787,
-        "gameId": "2i3nCKuq",
-        "color": "black",
-      },
-    "horde":
-      {
-        "user": { "name": "Andr88", "flair": "symbols.triangular-flag", "id": "andr88" },
-        "rating": 2133,
-        "gameId": "zv6BfeT6",
-        "color": "black",
-      },
-    "atomic":
-      {
-        "user":
-          { "name": "cyberpunks", "flair": "smileys.cold-face", "patron": true, "patronColor": 1, "id": "cyberpunks" },
-        "rating": 1932,
-        "gameId": "EBddIJbc",
+        "user": { "name": "TheMarsisback2015", "id": "themarsisback2015" },
+        "rating": 3180,
+        "gameId": "3hkEI6VI",
         "color": "white",
       },
+    "horde": { "user": { "name": "AidarF", "id": "aidarf" }, "rating": 2079, "gameId": "oJbo77jV", "color": "white" },
+    "atomic":
+      { "user": { "name": "sile314", "id": "sile314" }, "rating": 2069, "gameId": "cSQlbffk", "color": "white" },
     "bot":
       {
-        "user": { "name": "PetersBot", "title": "BOT", "id": "petersbot" },
-        "rating": 2921,
-        "gameId": "0xBV4AeD",
-        "color": "black",
+        "user":
+          { "name": "leela-kknd", "title": "BOT", "flair": "smileys.grinning-face-with-big-eyes", "id": "leela-kknd" },
+        "rating": 2985,
+        "gameId": "vqux6nel",
+        "color": "white",
       },
     "racingKings":
       {
-        "user": { "name": "AahaanTheChamp", "flair": "food-drink.mango", "id": "aahaanthechamp" },
-        "rating": 2135,
-        "gameId": "HEmN5MUd",
+        "user": { "name": "Chrisrueda0811", "id": "chrisrueda0811" },
+        "rating": 1931,
+        "gameId": "vWNngfMs",
         "color": "white",
       },
     "ultraBullet":
       {
-        "user": { "name": "Lumbrerosky", "id": "lumbrerosky" },
-        "rating": 1942,
-        "gameId": "v2WgmhmU",
+        "user": { "name": "Alessandro_Czx16", "flair": "food-drink.kitchen-knife", "id": "alessandro_czx16" },
+        "rating": 2037,
+        "gameId": "HpTFv3oq",
         "color": "black",
       },
     "blitz":
       {
-        "user": { "name": "Bugzilla", "title": "IM", "id": "bugzilla" },
-        "rating": 2629,
-        "gameId": "Si5fCcRw",
+        "user": { "name": "Silvermist15", "title": "WGM", "id": "silvermist15" },
+        "rating": 2405,
+        "gameId": "6rZLZI3j",
         "color": "white",
       },
     "kingOfTheHill":
       {
-        "user": { "name": "sorrymyfault", "id": "sorrymyfault" },
-        "rating": 2357,
-        "gameId": "ugZHqrgZ",
-        "color": "white",
-      },
-    "crazyhouse":
-      {
-        "user": { "name": "Mini_verse", "flair": "smileys.skull", "id": "mini_verse" },
-        "rating": 2295,
-        "gameId": "f2RI9DMl",
+        "user":
+          {
+            "name": "Hill_Theory",
+            "flair": "people.vampire-light-skin-tone",
+            "patron": true,
+            "patronColor": 2,
+            "id": "hill_theory",
+          },
+        "rating": 2144,
+        "gameId": "JJ6WNQha",
         "color": "black",
       },
+    "crazyhouse":
+      { "user": { "name": "mehatbug", "id": "mehatbug" }, "rating": 2372, "gameId": "I31aKZ5q", "color": "white" },
     "threeCheck":
-      { "user": { "name": "blit2", "id": "blit2" }, "rating": 1978, "gameId": "ltR9SqXm", "color": "black" },
+      { "user": { "name": "MiniLuka07", "id": "miniluka07" }, "rating": 1055, "gameId": "reoz8on4", "color": "white" },
     "classical":
-      { "user": { "name": "Matador85", "id": "matador85" }, "rating": 2356, "gameId": "JBrftNJe", "color": "white" },
-    "rapid":
-      {
-        "user": { "name": "fito2", "title": "FM", "id": "fito2" },
-        "rating": 2479,
-        "gameId": "EUO98ic9",
-        "color": "white",
-      },
+      { "user": { "name": "us_player", "id": "us_player" }, "rating": 1978, "gameId": "cDj1V8Cp", "color": "black" },
+    "rapid": { "user": { "name": "gek76", "id": "gek76" }, "rating": 2401, "gameId": "9MlHhzMW", "color": "white" },
   }

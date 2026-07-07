@@ -3,23 +3,23 @@ value:
     "t": "featured",
     "d":
       {
-        "id": "2i3nCKuq",
-        "orientation": "black",
+        "id": "3hkEI6VI",
+        "orientation": "white",
         "players":
           [
             {
               "color": "white",
-              "user": { "name": "DrawMerchant", "title": "IM", "id": "drawmerchant" },
-              "rating": 2787,
-              "seconds": 60,
+              "user": { "name": "TheMarsisback2015", "id": "themarsisback2015" },
+              "rating": 3180,
+              "seconds": 30,
             },
             {
               "color": "black",
-              "user": { "name": "Empathy666", "flair": "symbols.black-heart", "id": "empathy666" },
-              "rating": 2876,
-              "seconds": 60,
+              "user": { "name": "Kurse-Aura1", "flair": "smileys.loudly-crying-face", "id": "kurse-aura1" },
+              "rating": 2969,
+              "seconds": 30,
             },
           ],
-        "fen": "2n1rrk1/1p3ppp/3p4/pP1P2qn/2PB4/5Q2/P1N2PPP/R4RK1 w - - 5 21",
+        "fen": "3r1rk1/pp2p1b1/4P2p/3NP1p1/4qp2/5Q2/PP4K1/3R3R b - - 5 31",
       },
   }

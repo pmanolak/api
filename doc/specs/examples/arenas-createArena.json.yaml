@@ -4,11 +4,11 @@ value:
     "duels": [],
     "secondsToStart": 300,
     "standing": { "page": 1, "players": [] },
-    "id": "M0uoSoAf",
+    "id": "5TBlfjvT",
     "createdBy": "bobby",
-    "startsAt": "2026-05-15T02:41:38.914694155Z",
+    "startsAt": "2026-07-07T02:00:47.211570216Z",
     "system": "arena",
-    "fullName": "Pogonina Arena",
+    "fullName": "Láznička Arena",
     "minutes": 60,
     "perf": { "key": "blitz", "name": "Blitz", "icon": ")" },
     "clock": { "limit": 300, "increment": 0 },
@@ -16,11 +16,7 @@ value:
     "rated": true,
     "berserkable": true,
     "verdicts": { "list": [{ "condition": "Bot players are not allowed", "verdict": "ok" }], "accepted": true },
-    "quote":
-      {
-        "text": "You know you're going to lose. Even when I was ahead I knew I was going to lose --on playing against Fischer.",
-        "author": "Andrew Soltis",
-      },
-    "greatPlayer": { "name": "Pogonina", "url": "https://wikipedia.org/wiki/Natalia_Pogonina" },
+    "quote": { "text": "What would chess be without silly mistakes?", "author": "Kurt Richter" },
+    "greatPlayer": { "name": "Láznička", "url": "https://wikipedia.org/wiki/Viktor_L%C3%A1zni%C4%8Dka" },
     "myUsername": "Bobby",
   }

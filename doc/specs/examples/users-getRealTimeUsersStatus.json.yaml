@@ -1,5 +1,12 @@
 value:
   [
-    { "name": "Mary", "flair": "people.open-hands-medium-light-skin-tone", "id": "mary" },
-    { "name": "Ana", "title": "WCM", "flair": "smileys.downcast-face-with-sweat", "id": "ana" },
+    { "name": "Mary", "flair": "people.person-taking-bath-medium-skin-tone", "id": "mary" },
+    {
+      "name": "Ana",
+      "title": "IM",
+      "flair": "people.person-raising-hand-dark-skin-tone",
+      "patron": true,
+      "patronColor": 1,
+      "id": "ana",
+    },
   ]

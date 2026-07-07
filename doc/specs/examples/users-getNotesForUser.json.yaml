@@ -1,9 +1,14 @@
 value:
   [
     {
-      "from": { "name": "Bobby", "id": "bobby" },
-      "to": { "name": "Mary", "flair": "people.open-hands-medium-light-skin-tone", "id": "mary" },
+      "from":
+        {
+          "name": "Bobby",
+          "flair": "people.person-in-motorized-wheelchair-facing-right-light-skin-tone",
+          "id": "bobby",
+        },
+      "to": { "name": "Mary", "flair": "people.person-taking-bath-medium-skin-tone", "id": "mary" },
       "text": "this is a private note",
-      "date": 1778812629766,
+      "date": 1783389374546,
     },
   ]
