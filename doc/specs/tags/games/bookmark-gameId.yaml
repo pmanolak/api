@@ -1,6 +1,6 @@
 post:
   operationId: bookmarkToggle
-  summary: Bookmark or unbookmark a game
+  summary: Bookmark a game
   description: |
     Add or remove a bookmark on a game, for the logged in user.
     By default, the bookmark is toggled: added if absent, removed if present.
