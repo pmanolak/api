@@ -814,6 +814,29 @@ export interface paths {
     patch?: never;
     trace?: never;
   };
+  "/bookmark/{gameId}": {
+    parameters: {
+      query?: never;
+      header?: never;
+      path?: never;
+      cookie?: never;
+    };
+    get?: never;
+    put?: never;
+    /**
+     * Bookmark a game
+     * @description Add or remove a bookmark on a game, for the logged in user.
+     *     By default, the bookmark is toggled: added if absent, removed if present.
+     *     Use the `v` parameter to explicitly set the bookmark instead, making the request idempotent.
+     *     Bookmarked games can be downloaded with the [export your bookmarked games](#tag/games/GET/api/games/export/bookmarks) endpoint.
+     */
+    post: operations["bookmarkToggle"];
+    delete?: never;
+    options?: never;
+    head?: never;
+    patch?: never;
+    trace?: never;
+  };
   "/api/tv/channels": {
     parameters: {
       query?: never;
@@ -9205,6 +9228,34 @@ export interface operations {
             | components["schemas"]["GamePgn"]
             | components["schemas"]["GameJson"];
         };
+      };
+    };
+  };
+  bookmarkToggle: {
+    parameters: {
+      query?: {
+        /**
+         * @description Explicitly set the bookmark instead of toggling it.
+         *     `true` adds the bookmark, `false` removes it.
+         * @example true
+         */
+        v?: boolean;
+      };
+      header?: never;
+      path: {
+        gameId: string;
+      };
+      cookie?: never;
+    };
+    requestBody?: never;
+    responses: {
+      /** @description The bookmark was successfully added or removed. */
+      204: {
+        headers: {
+          "Access-Control-Allow-Origin"?: string;
+          [name: string]: unknown;
+        };
+        content?: never;
       };
     };
   };
