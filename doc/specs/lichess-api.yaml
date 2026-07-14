@@ -384,6 +384,9 @@ paths:
   /api/games/export/bookmarks:
     $ref: "./tags/games/api-games-export-bookmarks.yaml"
 
+  /bookmark/{gameId}:
+    $ref: "./tags/games/bookmark-gameId.yaml"
+
   /api/tv/channels:
     $ref: "./tags/tv/api-tv-channels.yaml"
 
